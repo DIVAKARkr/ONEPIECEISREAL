@@ -1,0 +1,7 @@
+4 aaj thoda sa bst;
+5  kal bst complete;+ css
+6  recursion ;+css
+7  recurion;+js
+8 recursion + stl;+js
+9  heap+ maths
+10 heap+ maths
